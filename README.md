@@ -1,1 +1,1 @@
-# EEG-Meditation
+# EEG-Mind Wandering
